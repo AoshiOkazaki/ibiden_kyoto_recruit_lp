@@ -4,6 +4,8 @@
 
 https://aoshiokazaki.github.io/ibiden_kyoto_recruit_lp/
 
+GitHub Pagesは `main` ブランチへの変更をGitHub Actionsで自動デプロイします。初回のみ、リポジトリの Settings > Pages で公開元を `GitHub Actions` に設定してください。
+
 ## リポジトリ
 
 https://github.com/AoshiOkazaki/ibiden_kyoto_recruit_lp
